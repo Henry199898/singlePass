@@ -1,0 +1,30 @@
+id,project_name,request_id,creator,create_time,content
+198189,keepass,1,dreichl,2003/12/14,"Logged In: YES
+user_id=853915
+Both features are implemented now.
+They will be included in the next release of KeePass (v0.85).
+Thanks for your suggestions!
+Dominik"
+198190,keepass,201,dreichl,2004/10/12,"Logged In: YES
+user_id=853915
+An auto-type feature has been implemented. Just wait for the
+next version (0.98a) :)
+Best regards,
+Dominik"
+198191,keepass,801,dreichl,2007/9/9,"Logged In: YES
+user_id=853915
+Originator: NO
+An excellent suggestion, thanks a lot!
+I've implemented it into both KeePass 1.09 and 2.03.
+Thanks and best regards
+Dominik"
+198192,keepass,301,monotek,2005/1/24,"Logged In: YES
+user_id=1203618
+i support this wish"
+198193,keepass,1,dreichl,2003/12/14,"status: open --> closed
+labels: 585762 -->"
+198194,keepass,1301,dreichl,2009/11/12,"Sure, have a look at the ""Favicon Downloader"" plugin.
+Best regards
+Dominik"
+198195,keepass,2204,pail459,2016/11/28,"It is easier to move entries manually, as it's a once only operation, than attempting to add a merge feature that works for the few who require it, IMO.
+cheers, Paul"

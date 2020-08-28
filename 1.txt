@@ -1,0 +1,4 @@
+cluster.cluster_idc_0,cluster.center_doc_id0, cluster.members [0, 1, 2, 6, 8]
+cluster.cluster_idc_1,cluster.center_doc_id3, cluster.members [3]
+cluster.cluster_idc_2,cluster.center_doc_id4, cluster.members [4, 7]
+cluster.cluster_idc_3,cluster.center_doc_id5, cluster.members [5]

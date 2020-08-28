@@ -1,0 +1,8 @@
+iter:1,max_index0,max_value0.6750770376560058
+iter:2,max_index0,max_value0.6278496345341766
+iter:3,max_index0,max_value0.0
+iter:4,max_index1,max_value0.0
+iter:5,max_index2,max_value0.0
+iter:6,max_index0,max_value0.24234344457404905
+iter:7,max_index2,max_value1.0
+iter:8,max_index0,max_value0.1956532732500685
